@@ -1,0 +1,3 @@
+[
+    "{'type': 'dimension', 'uri': 'http://gss-data.org.uk/def/trade/property/dimension/country', 'value': 'http://gss-data.org.uk/def/concept/dcms-country/{+country}'} is not valid under any of the given schemas"
+]

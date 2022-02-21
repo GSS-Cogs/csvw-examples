@@ -1,0 +1,46 @@
+{
+    "@context": "http://www.w3.org/ns/csvw",
+    "@id": "./sector.csv#scheme/sector",
+    "url": "sector.csv",
+    "tableSchema": "sector.table.json",
+    "rdfs:seeAlso": [
+        {
+            "@id": "./sector.csv#scheme/sector",
+            "@type": [
+                "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+                "http://www.w3.org/ns/dcat#Resource",
+                "http://www.w3.org/ns/dcat#Dataset",
+                "http://www.w3.org/2000/01/rdf-schema#Resource"
+            ],
+            "http://purl.org/dc/terms/identifier": [
+                {
+                    "@value": "Sector"
+                }
+            ],
+            "http://purl.org/dc/terms/issued": [
+                {
+                    "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+                    "@value": "2022-02-18T11:57:45.916590"
+                }
+            ],
+            "http://purl.org/dc/terms/modified": [
+                {
+                    "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+                    "@value": "2022-02-18T11:57:45.916590"
+                }
+            ],
+            "http://purl.org/dc/terms/title": [
+                {
+                    "@language": "en",
+                    "@value": "Sector"
+                }
+            ],
+            "http://www.w3.org/2000/01/rdf-schema#label": [
+                {
+                    "@language": "en",
+                    "@value": "Sector"
+                }
+            ]
+        }
+    ]
+}
